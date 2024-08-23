@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KID Notes</string>
+    <string name="search">بحث</string>
+    <string name="search_note">ابحث عن ملاحظة</string>
+    <string name="clear">مسح</string>
+    <string name="new_note">ملاحظة جديدة</string>
+    <string name="update_note">تعديل الملاحظة</string>
+    <string name="write_something">أكتب شيئا ما</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">الغاء</string>
+    <string name="note_details">تفاصيل الملاحظة</string>
+    <string name="go_back">عودة</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+</resources>
